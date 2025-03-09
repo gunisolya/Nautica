@@ -8,7 +8,7 @@ const apiEmail = "gunisolya35@gmail.com"; // Ganti dengan email yang kalian guna
 const accountID = "c5e31e3b77c6ba2ad282c68020ecf47b"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "b97dbf8075bb77904b675c4a71171998"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "bacrie.ac.id";
 let cachedProxyList = [];
 
 // Constant
